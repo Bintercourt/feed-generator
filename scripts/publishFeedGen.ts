@@ -8,20 +8,20 @@ const run = async () => {
 
   // YOUR bluesky handle
   // Ex: user.bsky.social
-  const handle = ''
+  const handle = 'B.tencourt'
 
   // YOUR bluesky password, or preferably an App Password (found in your client settings)
   // Ex: abcd-1234-efgh-5678
-  const password = ''
+  const password = 'juju1084'
 
   // A short name for the record that will show in urls
   // Lowercase with no spaces.
   // Ex: whats-hot
-  const recordName = ''
+  const recordName = 'https://bsky.app/profile/sevroaubarca.bsky.social'
 
   // A display name for your feed
   // Ex: What's Hot
-  const displayName = ''
+  const displayName = 'S.E.P'
 
   // (Optional) A description of your feed
   // Ex: Top trending content from the whole network
